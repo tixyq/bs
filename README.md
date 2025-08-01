@@ -13,9 +13,9 @@ I use a zip server from BSDS that I modified which was made by [СrazorTheCat](h
 3: Type python3 Main.py and it's done, follow client instructions.
 
 ### Android Client ###
-1: Download the APK here: https://www.mediafire.com/file/v7zgn71r0gw1nqi/com.bsl.v55.apk/file
+1: [Download the APK here](https://mega.nz/file/7FEhHTKB#PKxpHAGiWxyPcnBGIGT9nDR8Izo_Wc3QDQH7XNUK6JU)
 
-2: Change redirectHost (and redirectPort if you need it) in the frida config (lib/armeabi-v7a/libBSL.config.so)
+2: Change redirectHost (default: 127.0.0.1) and redirectPort if you need it in the frida config (lib/arm64-v8a/libBSL.config.so)
 
 3: Enjoy playing BSL-V55!
 
